@@ -1,0 +1,52 @@
+table th, td{
+   border: 8px solid #DDEEE3;
+   text-align:center;
+}
+th,td{
+ padding:8px;
+   
+}
+table{
+ border-collapse:collapse;
+ width:90%;
+}
+table td a{
+    background-color: #3DB967;
+    border: none;
+    color: white;
+    padding: 7px 12px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+   
+}
+th{
+ padding:15px;
+ background:#F3F9F5;
+ font-size:18px;
+ font-weight:bold;
+}
+.headerfu{
+left:180px;
+font-size:15px;
+font-family:verdana;
+background:#DDEEE3;
+color:#1E0B7B;
+top:300px;
+height:100px;
+width:1000px;
+position:absolute;
+}
+input[type=file]{
+ padding:5px 0px 5px 5px;
+ background:#EFEFF3;
+ border-radius:5px;
+}
+input[type=submit]{
+ background:#3DB967;
+ color:white;
+ padding:6px 8px;
+ font-weight:bold;
+ cursor:pointer;
+ border-radius:5px;
+}
